@@ -8,7 +8,9 @@
 
 
 solution:
-Open  .npmrc file verify repo path configured correctly or not should be below 
+Open  .npmrc file verify repo path configured correctly or not should be below :
+
 @rammerai-internal:registry=https://repo.rammer.ai/repository/npm-dev/
+
 @rammerai:registry=https://repo.rammer.ai/repository/public/
 
