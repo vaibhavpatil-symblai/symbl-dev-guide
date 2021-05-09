@@ -14,3 +14,18 @@ Open  .npmrc file verify repo path configured correctly or not should be below :
 
 @rammerai:registry=https://repo.rammer.ai/repository/public/
 
+
+
+2.Npm install error 
+ npm install
+npm ERR! code EINTEGRITY
+npm ERR! sha512-rpTUaGm6HkHkjfMc6NhXiEjGHP/R7ZXiyh9C/YPFEhmQ4f3T0UESRChAIHiAWFI+CpHPx1OnZEtt4xLgeYmy/w== integrity checksum failed when using sha512: wanted sha512-rpTUaGm6HkHkjfMc6NhXiEjGHP/R7ZXiyh9C/YPFEhmQ4f3T0UESRChAIHiAWFI+CpHPx1OnZEtt4xLgeYmy/w== but got sha512-CoDP3pMuQJh0lHwVoGyj2ftUMdaN2txmY7Hj02cc4U7BrnGd2MgPeCj2/iTNh3yFO7dA7F8rdwhzUgByOIsprw==. (10229 bytes)
+
+Remove package-lock json and check .npmrc config as mentioned in step and try again
+
+
+
+
+
+
+
