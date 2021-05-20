@@ -10,3 +10,8 @@ https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-featur
 
 NLP 
 https://blog.dominodatalab.com/deep-learning-illustrated-building-natural-language-processing-models/
+
+en_core_web_sm
+ en_core_web_lg
+punkt
+averaged_perceptron_tagger -insightsv2
