@@ -23,9 +23,12 @@ npm ERR! sha512-rpTUaGm6HkHkjfMc6NhXiEjGHP/R7ZXiyh9C/YPFEhmQ4f3T0UESRChAIHiAWFI+
 
 Remove package-lock json and check .npmrc config as mentioned in step and try again
 
+expo install firebase@8.2.3 
+
+https://git hub.com/expo/expo-cli/issues/3066
 
 
 
 
 
-
+           
