@@ -64,7 +64,6 @@ let  body1  = await client.search({
 
 
 
-
     {
         size: 20,
         from: 0,
@@ -88,3 +87,8 @@ let  body1  = await client.search({
             }
         }
     }
+    
+    
+    
+    
+    https://beenje.github.io/blog/posts/searching-by-date-in-elasticsearch/ Date filters
